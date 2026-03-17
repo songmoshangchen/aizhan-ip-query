@@ -1,0 +1,38 @@
+# 敏感配置文件
+*.env.local
+*.env.production
+
+# Python缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 测试和临时文件
+.pytest_cache/
+.coverage
+*.tmp
+*.bak
+
+# 文档草稿
+*草稿.md
+*草稿.txt
