@@ -1,6 +1,6 @@
 ---
 name: aizhan-ip-query
-description: 爱站网IP查询技能，用于查询IP地址的地理位置、运营商信息以及解析到该IP的所有域名。主要用于网络安全分析、SEO信息收集、网络空间测绘和威胁情报分析。当需要获取IP详细归属信息、域名关联分析或进行网络资产发现时使用此技能。
+description: "[DEPRECATED] 已废弃，不再维护。如需IP查询功能，请使用 ip_info_manager。"
 ---
 
 # 爱站网IP查询技能（安全版）

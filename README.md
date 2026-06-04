@@ -1,3 +1,7 @@
+> **⚠️ DEPRECATED — 项目已废弃，不再维护。**
+>
+> 该项目已停止开发和维护，代码仅供存档参考。如需 IP 查询功能，请参考 [ip_info_manager](https://github.com/songmoshangchen/ip_info_manager)。
+
 # 爱站网IP查询技能 (aizhan-ip-query)
 
 安全、高效的IP信息查询工具，通过爱站网(dns.aizhan.com)获取IP地址的地理位置、运营商信息和解析域名。
